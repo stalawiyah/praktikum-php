@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h2 {
+    color: #333333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #315c91;
+    color: white;
+}
+
+input[type="text"], textarea {
+    padding: 8px;
+    width: 300px;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: #315c91;
+    color: white;
+    border: none;
+}
